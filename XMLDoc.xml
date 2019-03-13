@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--The Hyndai Elentra 2019 model and it latest features-->
+<Car Name="Hyundai Elentra">
+  <Car Type="1">
+    <Model>Hyundai Elentra 1.6 Executive MT</Model>
+    <FuelConsumption>6.5 Litres/100Km</FuelConsumption>
+    <Co2Emissions>155g/km</Co2Emissions>
+    <Displacement>1591cc</Displacement>
+    <Power>93Kw</Power>
+    <Torque>155Nm</Torque>
+    <Price>R323900</Price>
+  </Car>
+  <Car Type="2">
+    <Model>Hyundai Elentra 1.6 Executive AT</Model>
+    <FuelConsumption>6.9 Litres/100Km</FuelConsumption>
+    <Co2Emissions>161g/km</Co2Emissions>
+    <Displacement>1591cc</Displacement>
+    <Power>93Kw</Power>
+    <Torque>155Nm</Torque>
+    <Price>R343900</Price>
+  </Car>
+  <Car Type="3">
+    <Model>Hyundai Elentra 1.6 TGDI Elite DCT Sport</Model>
+    <FuelConsumption>7.9 Litres/100Km</FuelConsumption>
+    <Co2Emissions>164g/km</Co2Emissions>
+    <Displacement>1591cc</Displacement>
+    <Power>150Kw</Power>
+    <Torque>265Nm</Torque>
+    <Price>R424900</Price>
+  </Car>
+  <Car Type="4">
+    <Model>Hyundai Elentra 2.0 Executive MT</Model>
+    <FuelConsumption>8.3 Litres/100Km</FuelConsumption>
+    <Co2Emissions>174g/km</Co2Emissions>
+    <Displacement>1591cc</Displacement>
+    <Power>115Kw</Power>
+    <Torque>195Nm</Torque>
+    <Price>R378900</Price>
+  </Car>
+</Car>
